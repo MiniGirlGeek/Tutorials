@@ -16,7 +16,7 @@
 8. A battery
 
 #3D Printing
-You can either attempt to draw your own spine, or you can use ![our design][https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl]. Once you've got a .stl file ready you can start printing.
+You can either attempt to draw your own spine, or you can use [our design](https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl). Once you've got a .stl file ready you can start printing.
 
 [spine photo]
 
@@ -26,4 +26,10 @@ Once you've started you can start the sewing, and start another spine printing a
 
 #Sewing Practice
 If you haven't done much sewing before, it would be useful to have some practice.
-1. Thread your needle
+
+This is the eye of a needle:
+![the eye of a needle](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-01.png)
+This is where you'll insert your thread.
+
+1. If you're using a needle threader, you'll need to insert the threader through the eye of the needle first.
+  ![a graphic of a needle threader through the eye of a needle](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-02.png)
