@@ -28,8 +28,25 @@ Once you've started you can start the sewing, and start another spine printing a
 If you haven't done much sewing before, it would be useful to have some practice.
 
 This is the eye of a needle:
+
 ![the eye of a needle](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-01.png)
+
+
 This is where you'll insert your thread.
 
+1. Measure out a length of thread that is double the distance between the tip of your hand and your elbow.
+
 1. If you're using a needle threader, you'll need to insert the threader through the eye of the needle first.
+  
   ![a graphic of a needle threader through the eye of a needle](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-02.png)
+
+2. Next push your thread through the eye of the needle threader.
+  
+  ![a graphic of a thread being threaded through needle threader](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-03.png)
+
+3. Now pull the needle threader out from the needles eye, and you should have a successfully threaded needle.
+  
+  ![a graphic of a thread being threaded through needle threader](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-04.png)
+
+4. 
+
