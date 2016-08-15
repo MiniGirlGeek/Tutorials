@@ -25,7 +25,7 @@ Each spine can take between 30mins - 1hr 30mins to print depending on your print
 Once you've started you can start the sewing, and start another spine printing as and when possible.
 
 #Sewing Practice
-If you haven't done much sewing before, it would be useful to have some practice. Otherwize skip to the [next section](#next section)
+If you haven't done much sewing before, it would be useful to have some practice. Otherwize skip to the [next section](#next-section)
 
 This is the eye of a needle:
 
