@@ -14,4 +14,4 @@
 8. A battery
 
 #3D Printing
-You can either attempt to draw your own spine, or you can use ![our design][https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl]. Once you've got an .stl file ready
+You can either attempt to draw your own spine, or you can use [our design](https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl). Once you've got an .stl file ready
