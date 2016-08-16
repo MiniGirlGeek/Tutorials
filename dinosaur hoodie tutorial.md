@@ -25,7 +25,7 @@ Each spine can take between 30mins - 1hr 30mins to print depending on your print
 Once you've started you can start the sewing, and start another spine printing as and when possible.
 
 #Sewing Practice
-If you haven't done much sewing before, it would be useful to have some practice. Otherwize skip to the [next section](#next-section).
+If you haven't done much sewing before, it would be useful to have some practice. Otherwize skip to the [next section](#the-circuit).
 
 This is the eye of a needle:
 
@@ -56,4 +56,22 @@ This is where you'll insert your thread.
   
   ![a graphic of a two threads being knotted together](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-06.png)
 
-#Next Section
+6. Insert your needle on the underneath of your material, this ensures that the knot cannot be seen from the front, and pull your thread through until the knot is tight next to the material.
+
+  ![a graphic of a needle being pulled though a piece of material](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-07.png)
+
+7. To create a running stitch go back down into the material ≈ 5mm further along, and then bring the needle back up a further ≈ 5mm along. Continue this until you have the length of stiches that you need. Try to keep your thread as taught as possible to create tight stiches which are less likely to come undone.
+  
+  ![a graphic of some stiches in a material](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-08.png)
+
+8. Now fill in the gaps using the same holes you came in and out of before.
+  
+  ![a graphic of some stiches in a material](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-09.png)
+
+9. Return your needle to the reverse and tie another knot in your thread. Keeping the needle threaded whilst you do this can make it easier, as you can use the needle to make the knot. If there's some thread left you can either cut it off or, to make it extra secure, you can weave it into the stitches on the bottom trapping the loose threads.
+
+
+#The Circuit
+![an adafruit gemma and neopixel in the correct orientation](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-10.png)
+
+![the circuit layout](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-11.png)
