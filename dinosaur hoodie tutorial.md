@@ -70,8 +70,14 @@ This is where you'll insert your thread.
 
 9. Return your needle to the reverse and tie another knot in your thread. Keeping the needle threaded whilst you do this can make it easier, as you can use the needle to make the knot. If there's some thread left you can either cut it off or, to make it extra secure, you can weave it into the stitches on the bottom trapping the loose threads.
 
+Practise this as many times as you like until you feel you've got the hang of it.
+
 
 #The Circuit
+We're going to be  using the conductive thread to create a circuit that connects the Gemma each of the neopixels. This is the ideal orientation they should be in relative to each other.
+
 ![an adafruit gemma and neopixel in the correct orientation](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-10.png)
+
+This is what the full circuit will look like, each of the neopixels are in the same position as the one above.
 
 ![the circuit layout](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-11.png)
