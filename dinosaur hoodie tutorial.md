@@ -14,6 +14,7 @@
 7. Crocodile clips _(for testing)_
 7. 8 x Adafruit RGB NeoPixels
 8. A battery
+9. A MicroUSB B Cable
 
 #3D Printing
 You can either attempt to draw your own spine, or you can use [our design](https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl). Once you've got a .stl file ready you can start printing.
@@ -81,3 +82,5 @@ We're going to be  using the conductive thread to create a circuit that connects
 This is what the full circuit will look like, each of the neopixels are in the same position as the one above.
 
 ![the circuit layout](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-11.png)
+
+But first we need to check that the Gemma and the NeoPixels are working.
