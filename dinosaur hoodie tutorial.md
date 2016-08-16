@@ -52,4 +52,8 @@ This is where you'll insert your thread.
   
   ![a graphic of a thread being threaded through needle threader](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-05.png)
 
+5. Now tie a knot at the end of the threads, using both of the threads. Try and get it as close to the end of the threads as you can by pulling the knot towards the end as you tighten it.
+  
+  ![a graphic of a two threads being knotted together](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-06.png)
+
 #Next Section
