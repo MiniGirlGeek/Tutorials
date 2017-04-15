@@ -1,6 +1,6 @@
 # Creating a Dinosaur Hoodie
 
-# What you'll need
+## What you'll need
 1. A hoodie
 2. An Adafruit Gemma
 3. Access to a 3D printer
@@ -16,7 +16,7 @@
 8. A battery
 9. A MicroUSB B Cable
 
-# 3D Printing
+## 3D Printing
 You can either attempt to draw your own spine, or you can use [our design](https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl). Once you've got a .stl file ready you can start printing.
 
 [spine photo]
@@ -25,7 +25,7 @@ Each spine can take between 30mins - 1hr 30mins to print depending on your print
 
 Once you've started you can start the sewing, and start another spine printing as and when possible.
 
-# Sewing Practice
+## Sewing Practice
 If you haven't done much sewing before, it would be useful to have some practice. Otherwize skip to the [next section](#the-circuit).
 
 This is the eye of a needle:
@@ -74,7 +74,7 @@ This is where you'll insert your thread.
 Practise this as many times as you like until you feel you've got the hang of it.
 
 
-# The Circuit
+## The Circuit
 We're going to be  using the conductive thread to create a circuit that connects the Gemma each of the neopixels. This is the ideal orientation they should be in relative to each other.
 
 ![an adafruit gemma and neopixel in the correct orientation](https://github.com/MiniGirlGeek/Tutorials/blob/master/dino_images/needle_instructions-10.png)
