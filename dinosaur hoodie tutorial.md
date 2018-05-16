@@ -17,7 +17,7 @@
 9. A MicroUSB B Cable
 
 ## 3D Printing
-You can either attempt to draw your own spine, or you can use [our design](https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl). Once you've got a .stl file ready you can start printing.
+You can either attempt to draw your own spine, or you can use [my design](https://github.com/MiniGirlGeek/Tutorials/blob/master/resources/dinosaur_spike.stl). Once you've got a .stl file ready you can start printing.
 
 [spine photo]
 
